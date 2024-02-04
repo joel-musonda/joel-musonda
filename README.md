@@ -1,2 +1,1 @@
-Hey Am Joel Musonda a dedicated software developer creating thriving and captivating online experience.Am a web and app designer and alse specialise in game developmet 
-using the latest tool to get the work done and in the quickest time possible
+👋  Hey Am Joel Musonda a dedicated software developer and HackTheBox Ethical Hacker 💻 creating thriving and captivating online experience. Am a web and app developer using the latest tools to get the work done in the quickest possible time.I also developer 3D worlds with Unreal engine and games that makes you feel like a real player. Am a <kbd>HackTheBox</kdb> students dedicated to improve the World's digital security 
