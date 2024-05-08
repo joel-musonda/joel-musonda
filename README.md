@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Wazzup 👋, It's Joel here </h1>
-<h3 align="center">Ambitious developer aiming to transform lines of code into impactful experiences that leave users spellbound.Am a Passionate problem-solver on a quest to turn complex algorithms into elegant solutions.Eager to collaborate, create, and conquer coding challenges, all while maintaining a sense of humor and a love for games."Geek by day, code ninja by night, striving to build the future one bug fix at a time.</h3>
+<h3 align="center">Ambitious developer aiming to transform lines of code into impactful experiences that leave users spellbound.Am a Passionate problem-solver on a quest to turn complex algorithms into elegant solutions.Eager to collaborate, create, and conquer coding challenges, all while maintaining a sense of humor and a love for games</h3>
 <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt = "joel-musonda" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-musonda&label=Profile%20views&color=0e75b6&style=flat" alt="joel-musonda" /> </p>
 
