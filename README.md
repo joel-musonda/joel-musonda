@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Wazzup 👋, It's Joel here </h1>
-<h3 align="center">Ambitious developer aiming to transform lines of code into impactful experiences that leave users spellbound.Am a Passionate problem-solver on a quest to turn complex algorithms into elegant solutions.Eager to collaborate, create, and conquer coding challenges, all while maintaining a sense of humor and a love for games</h3>
+<h1 align="right">Wazzup 👋, It's Joel here </h1>
+<h3 align="right">Ambitious developer aiming to transform lines of code into impactful experiences that leave users spellbound.Am a Passionate problem-solver on a quest to turn complex algorithms into elegant solutions.Eager to collaborate, create, and conquer coding challenges, all while maintaining a sense of humor and a love for games</h3>
 
 <img src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt = "me" >
 
