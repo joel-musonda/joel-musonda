@@ -3,6 +3,7 @@
 <h3 align="center">Ambitious developer aiming to transform lines of code into impactful experiences that leave users spellbound.Am a Passionate problem-solver on a quest to turn complex algorithms into elegant solutions.Eager to collaborate, create, and conquer coding challenges, all while maintaining a sense of humor and a love for games</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joel-musonda&theme=chalk" alt="joel-musonda" /></a> </p>
+<img src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt = "me" >
 
 <img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt = "joel-musonda" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-musonda&label=Profile%20views&color=0e75b6&style=flat" alt="joel-musonda" /> </p>
