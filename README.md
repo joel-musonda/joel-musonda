@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hola!👋 Joel here </h1>
-<h3 align="center">Am a Passionate problem-solver on a quest to turn complex algorithms into elegant solutions, eager to collaborate, create, and conquer coding challenges, all while maintaining a good sense of humor and a love for music</h3>
+<h3 align="center">Coding is cool. really cool</h3>
 
 <img align = "center" src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt = "me" >
 
@@ -8,16 +8,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-musonda&label=Profile%20views&color=0e75b6&style=flat" alt="joel-musonda" /> </p>
 
 - 🌱 Somebody help I’m currently building **My own programming Language**
-- 💬 Ask me about **React, Next js**
+- 💬 Friendly. feel freee to reach out
 - 📫 connect with me **joel1musonda2@gmail.com**
 - 👨‍💻 check out my wall at **github/joel-musonda**
-  
-
 <div> <a href="https://github.com/joel-musonda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/instagram.com/erbody_loves_joel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joel1musonda2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
+  <h1>login page</h1>
+  <p>welcome to my website</p>
 <a href="https://codesandbox.com/codesandbox.io/joel-musonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="codesandbox.io/joel-musonda" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/hackerrank/joel-musonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="hackerrank/joel-musonda" height="30" width="40" /></a>
   <a href="https://codepen.io/codepen.io/joel-musonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="codepen.io/joel-musonda" height="30" width="40" /></a>
@@ -71,7 +71,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
+<h2>learn more about me here</h2>
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-musonda&layout=compact&theme=dark" alt=joel-musonda />
 
