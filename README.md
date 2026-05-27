@@ -16,8 +16,6 @@
 <a href = "mailto:joel1musonda2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-  <h1>login page</h1>
-  <p>welcome to my website</p>
 <a href="https://codesandbox.com/codesandbox.io/joel-musonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="codesandbox.io/joel-musonda" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/hackerrank/joel-musonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="hackerrank/joel-musonda" height="30" width="40" /></a>
   <a href="https://codepen.io/codepen.io/joel-musonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="codepen.io/joel-musonda" height="30" width="40" /></a>
@@ -71,7 +69,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-<h2>learn more about me here</h2>
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-musonda&layout=compact&theme=dark" alt=joel-musonda />
 
