@@ -2,10 +2,6 @@
 <h1 align="center">Hola!👋 Joel here </h1>
 <h3 align="center">Coding is cool. really cool</h3>
 
-<img align = "center" src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt = "me" >
-
-
-
 - 🌱  I’m currently working on **Complex Agentic RAG systems**
 - 💬 Friendly. feel free to reach out
 - 📫 connect with me **joel1musonda2@gmail.com**
