@@ -4,13 +4,12 @@
 
 <img align = "center" src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt = "me" >
 
-<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt = "joel-musonda" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-musonda&label=Profile%20views&color=0e75b6&style=flat" alt="joel-musonda" /> </p>
 
-- 🌱 Somebody help I’m currently building **My own programming Language**
-- 💬 Friendly. feel freee to reach out
+
+- 🌱  I’m currently working on **Complex Agentic RAG systems**
+- 💬 Friendly. feel free to reach out
 - 📫 connect with me **joel1musonda2@gmail.com**
-- 👨‍💻 check out my wall at **github/joel-musonda**
+
 <div> <a href="https://github.com/joel-musonda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/instagram.com/erbody_loves_joel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joel1musonda2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
