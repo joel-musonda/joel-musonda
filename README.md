@@ -4,10 +4,10 @@
 
 - 🌱 My name is Joel and I’m currently working on **Complex Agentic RAG systems**
 - 💬 Am also an A-level student at Crucible Lusaka.
-- 📫 I'am passionate about AI, Machine Learning, Computer Vision, Descrete Mathematics, Quantum Computing, Economics and how a combination of these could help humanity answer the questions it has carried for centuries.
+- 📫 I'am passionate about AI, Machine Learning, Computer Vision, Descrete Mathematics, Quantum Computing, Economics and seeing how a combination of these could help humanity answer the questions it has carried for centuries.
 
 <div> <a href="https://github.com/joel-musonda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/instagram.com/erbody_loves_joel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/instagram.com/joel.thegr8t" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joel1musonda2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,7 +72,7 @@
 | Scribe AI| AI chatbot that increases accessibility to AI by allowing people to interact with it in local langauges current languages include Bemba and Nyanja | Python, Eleven labs, Gemini, React.jS|
 | Learnscape| A virtual reality app where students can run experiments using virtual chemicals and laboratory equipments | Unity, C++, Sketchfab, Blender, React.js |
 | Masterpi Robot| An autonomous agriculture robot that plants, waters and haversts crops for the AI FOR GOOD competition organised by the UN | Python, Raspberypi, claude |
-|cFlagellar Motor Detection in Bacterial Tomograms | web based machine learning models to automatically identify flagellar motors in 3D tomographic reconstructions of bacterial cells build with Chatgpt LLMs and Javascript.| React.js, 3.js, Openai, Tensorflow, Python|
+| Flagellar Motor Detection in Bacterial Tomograms | web based machine learning models to automatically identify flagellar motors in 3D tomographic reconstructions of bacterial cells build with Chatgpt LLMs and Javascript.| React.js, 3.js, Openai, Tensorflow, Python|
 | SpeechAssist | aesthetically designed webapp that helps voice impaired folks to communicate using buttons and emojis |Elevenlabs, react.js, node.js, Tailwind css |
 | React to-do App| Wepapp where users can add items to their list in a temporal session cache| React.js, CSS3|
 | MovieSearch | Minimal Search app for searching and finding movies based off context and not keywords| React.js, Tailwind CSS, OMDB api|
