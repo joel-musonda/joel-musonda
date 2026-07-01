@@ -81,8 +81,6 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-musonda&layout=compact&theme=dark" alt=joel-musonda />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joel-musonda&show_icons=true&locale=en&theme=dark" alt="joel-musonda" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-musonda&theme=dark" alt="joel-musonda" /></p>
