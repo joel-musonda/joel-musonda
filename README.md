@@ -1,10 +1,10 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hola!👋 Joel here </h1>
-<h3 align="center">Coding is cool. really cool</h3>
+<h1 align="center">Hi There!👋 Joel here </h1>
+<h3 align="center">Coding is cool..... really cool</h3>
 
-- 🌱  I’m currently working on **Complex Agentic RAG systems**
-- 💬 Friendly. feel free to reach out
-- 📫 connect with me **joel1musonda2@gmail.com**
+- 🌱 My name is Joel and I’m currently working on **Complex Agentic RAG systems**
+- 💬 Am also an A-level student at Crucible Lusaka.
+- 📫 I'am passionate about AI, Machine Learning, Computer Vision, Descrete Mathematics, Quantum Computing, Economics and how a combination of these could help humanity answer the questions it has carried for centuries.
 
 <div> <a href="https://github.com/joel-musonda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/instagram.com/erbody_loves_joel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -64,6 +64,22 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+
+| Project | Description | Stack |
+| -------- | -------- | -------- |
+| Nzelu AI | AI  chatbot Acting as an empathetic and highly precise companion for students and researchers | Langchain, Python, Pinecone , Gemini, streamlit|
+| Scribe AI| AI chatbot that increases accessibility to AI by allowing people to interact with it in local langauges current languages include Bemba and Nyanja | Python, Eleven labs, Gemini, React.jS|
+| Learnscape| A virtual reality app where students can run experiments using virtual chemicals and laboratory equipments | Unity, C++, Sketchfab, Blender, React.js |
+| Masterpi Robot| An autonomous agriculture robot that plants, waters and haversts crops for the AI FOR GOOD competition organised by the UN | Python, Raspberypi, claude |
+|cFlagellar Motor Detection in Bacterial Tomograms | web based machine learning models to automatically identify flagellar motors in 3D tomographic reconstructions of bacterial cells build with Chatgpt LLMs and Javascript.| React.js, 3.js, Openai, Tensorflow, Python|
+| SpeechAssist | aesthetically designed webapp that helps voice impaired folks to communicate using buttons and emojis |Elevenlabs, react.js, node.js, Tailwind css |
+| React to-do App| Wepapp where users can add items to their list in a temporal session cache| React.js, CSS3|
+| MovieSearch | Minimal Search app for searching and finding movies based off context and not keywords| React.js, Tailwind CSS, OMDB api|
+
+
+
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-musonda&layout=compact&theme=dark" alt=joel-musonda />
 
